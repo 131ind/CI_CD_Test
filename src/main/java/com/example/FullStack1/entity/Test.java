@@ -18,4 +18,7 @@ public class Test {
 
     @Column
     private String test;
+
+    @Column
+    private Integer number;
 }
